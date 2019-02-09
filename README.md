@@ -3,6 +3,7 @@
 ## Parses YAML files and outputs a JSON string
 
 
+### Required Environment Variables
 | Key        | Description                            |
 | -----------|----------------------------------------|
 | `DIR`      | Directory to parse the files from      |
