@@ -1,0 +1,7 @@
+first:
+  booleanValue: false  # we use the anya instead
+
+second:
+  String: HalloAnya
+  secondString: "Hallo Anya"
+  integer: 123456
