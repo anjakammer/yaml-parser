@@ -9,5 +9,4 @@ fs.readdirSync(process.env.DIR).forEach(file => {
       JSON.stringify(yaml.safeLoad(fs.readFileSync(process.env.DIR + '/' + file, 'utf8'))) + ','
   }
 })
-
-console.log(output + ']')
+console.log(output.substring(0, output.length - 1) + ']')
