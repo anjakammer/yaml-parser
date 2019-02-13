@@ -2,7 +2,7 @@
   "name": "yaml-parser",
   "version": "0.0.1",
   "author": "Anja Kammer",
-  "license": "UNLICENSE",
+  "license": "GPL-3.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
